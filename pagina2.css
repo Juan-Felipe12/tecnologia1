@@ -1,0 +1,139 @@
+ body{
+
+ 	background-image: url(cole.jpg);
+ 	background-size: 100%;
+ }
+ .J{
+ 	position: absolute;
+		top: 180px;
+		width: 270px;
+		height: 90px;
+		left: 490px;
+		font-family: cursive;
+		background-color:#707586 ;
+	 border-left: black 10px solid;
+ }
+
+ .J:hover{
+       background-color: white ;
+
+ }
+ .r{
+    position: absolute;
+	top: 200px;
+	left: 420px;
+	height: 40px;
+	width: 80px;
+	background: #707174 ;
+   }
+
+   .r:hover{
+   	background-color: white;
+
+   }
+ .y{
+ 	position: absolute;
+ 	left: 180px;
+ 	top: 23px;
+ 	border-color: #898C95  black;
+    border-width: 10px;
+    border-style: solid;
+ }
+
+.n{
+	position: absolute;
+	left: 900px;
+    top: 20px;
+}
+
+ .f{
+		position: absolute;
+		top: 40px;
+		width: 300px;
+		height: 100px;
+		left: 35%;
+		font-family: cursive;
+		background-color:#707586 ;
+        border-left: black 10px solid;
+	}
+
+	.f:hover{
+		background-color: white ;
+	}
+
+	.p1{
+	position: absolute;
+	top: 300px;
+	left: 420px;
+	height: 40px;
+	width: 90px;
+	background: #707174 ;
+	font-family: cursive;
+	font-size: 15px;
+	border: white 5px inset;
+}
+
+.p2{
+	position: absolute;
+	top: 300px;
+	left: 540px;
+	height: 40px;
+	width: 90px;
+	background:#707174;
+	font-family: cursive;
+	font-size: 15px;
+	border: white 5px inset;
+}.p3{
+	position: absolute;
+	top: 300px;
+	left: 660px;
+	height: 40px;
+	width: 90px;
+	background:#707174;
+	font-family: cursive;
+	font-size: 15px;
+	border: white 5px inset;
+}.p4{
+	position: absolute;
+	top: 300px;
+	left: 780px;
+	height: 40px;
+	width: 90px;
+	background: #707174;
+	font-family: cursive;
+	font-size: 15px;
+	border: white 5px inset;
+}
+
+.p1:hover{
+       background-color: cyan;
+       }
+ 
+ .p1:active{
+ 	background-color: white;
+ }
+
+.p2:hover{
+
+	background-color: #3C4B85;
+}
+
+.p2:active{
+	background-color: white;
+}
+.p3:hover{
+
+	background-color: lightblue;
+}
+.p3:active{
+
+	background-color: white;
+}
+.p4:hover{
+
+	background-color: #03314B;
+}
+
+.p4:active{
+	background-color: white;
+}
