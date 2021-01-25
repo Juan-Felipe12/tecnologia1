@@ -18,6 +18,20 @@
        background-color: white ;
 
  }
+.o{
+ 	position: absolute;
+		top: 270px;
+		width: 270px;
+		height: 90px;
+		left: 490px;
+		font-family: cursive;
+		background-color:#707586 ;
+	 border-left: black 10px solid;
+ }
+
+ .o:hover{
+       background-color: white ;
+}
  .r{
     position: absolute;
 	top: 200px;
