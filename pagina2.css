@@ -2,6 +2,7 @@
 
  	background-image: url(cole.jpg);
  	background-size: 100%;
+
  }
 
  .J{
@@ -38,7 +39,7 @@
  .r{
     position: absolute;
 	top: 200px;
-	left: 420px;
+	left: 310px;
 	height: 40px;
 	width: 80px;
 	background: #707174 ;
@@ -154,3 +155,138 @@
 .p4:active{
 	background-color: white;
 }
+
+.ex{
+	position: absolute;
+	font-family: arial;
+	top: 450px;
+	background-color: white;
+}
+
+.su{
+	position: absolute;
+	font-family: arial;
+	top: 700px;
+}
+
+.suma{
+	position: absolute;
+ 	left: 100px;
+ 	top: 200px;
+ 	
+}
+.pr{
+	position: absolute;
+	font-family: arial;
+	top: 1140px;
+	background-color: white;
+ 	
+}
+.prom{
+	position: absolute;
+ 	left: 100px;
+ 	top: 200px;
+ 	
+}
+
+.in{
+	position: absolute;
+	font-family: arial;
+	top: 1610px;
+ 	
+}
+.indice{
+	position: absolute;
+ 	left: 100px;
+ 	top: 200px;
+ 	
+}
+
+.con{
+	position: absolute;
+	font-family: arial;
+	top: 2100px;
+	background-color: white;
+ 	
+}
+.contar{
+	position: absolute;
+ 	left: 100px;
+ 	top: 200px;
+ 	
+}
+
+.bus{
+	position: absolute;
+	font-family: arial;
+	top: 2650px;
+	background-color: white;
+ 	
+}
+.buscar{
+	position: absolute;
+ 	left: 100px;
+ 	top: 200px;
+ 	
+}
+.sm{
+    position: absolute;
+	top: 200px;
+	left: 420px;
+	height: 40px;
+	width: 80px;
+	background: #707174 ;
+   }
+   .sm:active{
+   	background-color: white;
+   }
+   .pm{
+    position: absolute;
+	top: 200px;
+	left: 510px;
+	height: 40px;
+	width: 80px;
+	background: #707174 ;
+    }
+    .pm:active{
+
+           background-color: white;
+    }
+
+   .ic{
+    position: absolute;
+	top: 200px;
+	left: 610px;
+	height: 40px;
+	width: 80px;
+	background: #707174 ;
+   }
+
+   .ic:active{
+   	background-color: white;
+   }
+   .ct{
+    position: absolute;
+	top: 200px;
+	left: 700px;
+	height: 40px;
+	width: 80px;
+	background: #707174 ;
+   }
+   .ct:active{
+   	background-color: white;
+   }
+   .bc{
+    position: absolute;
+	top: 200px;
+	left: 790px;
+	height: 40px;
+	width: 80px;
+	background: #707174 ;
+   }
+   .bc:hover{
+         background-color: white;
+   }
+
+
+
