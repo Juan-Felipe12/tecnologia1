@@ -4,6 +4,28 @@
  	background-size: 100%;
 
  }
+ .atr{
+ 	 position: absolute;
+	top: 200px;
+	left: 400px;
+	height: 40px;
+	width: 80px;
+	background: #707174
+}
+
+
+ .ap{
+ 	 position: absolute;
+	top: 200px;
+	left: 400px;
+	height: 40px;
+	width: 80px;
+	background: #707174
+}
+.ap:active{
+
+	background-color: white;
+}
 
  .J{
  	position: absolute;
