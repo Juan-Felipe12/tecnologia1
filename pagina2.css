@@ -123,7 +123,19 @@
 	font-family: cursive;
 	font-size: 15px;
 	border: white 5px inset;
-}.p3{
+}
+.par{
+	position: absolute;
+	top: 400px;
+	left: 1000px;
+	height: 40px;
+	width: 90px;
+	background:#707174;
+	font-family: cursive;
+	font-size: 15px;
+	border: white 5px inset;
+	}
+.p3{
 	position: absolute;
 	top: 400px;
 	left: 660px;
