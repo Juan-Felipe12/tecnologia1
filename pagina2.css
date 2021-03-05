@@ -322,5 +322,26 @@
          background-color: white;
    }
 
+   .ej1{
+	position: absolute;
+	font-family: arial;
+	top: 350px;
+	left: 430px;
+	
+}
+
+.ej2{
+	position: absolute;
+	font-family: arial;
+	top: 350px;
+	left: 520px;
+}
+.ej3{
+	position: absolute;
+	font-family: arial;
+	top: 350px;
+	left: 630px;
+	
+}
 
 
