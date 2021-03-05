@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>mensaje</title>
+    <a href="periodo.html"><button onclick="" class="r">Atras</button></a>
+    <script type="text/javascript">
+    var j=10;
+    </script>
+        <style type="text/css">
+        .m{
+            position: absolute;
+            font-family: cursive;
+            height: 250px;
+            width: 250px; 
+            background-color: #3C4B85;
+            left: 520px; 
+            top: 150px;
+            font-size: 58px;
+            text-align: center;
+            }
+            .m:hover{
+                background-color: lightblue;
+            }
+
+
+    </style>
+</head>
+<body onload="cuenta()">
+
+<script>
+function cuenta(){
+    setTimeout(num,1500);
+}
+function num(){
+    regre=setInterval(atras,1000)
+}
+function atras(){
+    j=j-1;
+    document.getElementById('caja').innerHTML=(j);
+    if (j==0) {
+        clearInterval(regre);
+        var t=document.getElementById('caja').innerHTML=("profe?")
+    }
+}
+
+</script>
+    <div id="caja" class="m"><br>Como estas</div>
+</body>
+</html>
