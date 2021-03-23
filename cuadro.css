@@ -1,0 +1,22 @@
+.ñ{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	color: #323132;
+  background-color: white;
+ border-color: lime  orange;
+    border-width: 10px;
+    border-style: solid;
+    font-family: cursive;
+    font-size: 100%;
+}
+
+.ñ:active{
+	background-color: purple;
+
+}
+
+body{
+	background-image: url(pac.jpg);
+	background-size: 100%;
+}

@@ -1,0 +1,25 @@
+<html>
+<head>
+	<title>randomm</title>
+	<link rel="stylesheet" type="text/css" href="cuadro.css">
+     <a href="periodo.html"><button onclick="" class="r">Atras</button></a>
+
+</head>
+<body onload="cuadrado()">
+    <div class="ñ" id="dro" onmousedown="clic(event)">Tocame</div>
+<script>
+	function cuadrado(){
+	var px=Math.floor((Math.random()*(1050-0))+0);
+    var py=Math.floor((Math.random()*(450-0))+0);
+    dro.style.left=px+"px";
+    dro.style.top=py+"px";
+    }
+    function clic(event){
+    var px=Math.floor((Math.random()*(1050-0))+0);
+    var py=Math.floor((Math.random()*(450-0))+0);
+    dro.style.left=px+"px";
+    dro.style.top=py+"px";
+    }
+</script>
+</body>
+</html>
